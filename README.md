@@ -1,0 +1,2 @@
+# SumanapalaBot
+Random Twitter Bot! 
