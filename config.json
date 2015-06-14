@@ -1,13 +1,13 @@
 {
 	"auth":{
-		"a_key" : DzJfu6OnkQkrJ3QCGEC7EuzDb
-		"a_secret" : 9322Fdg1L0rWjxS5Fc5PK8QmW6QePOwv4KWynkeNmI8c5IVHT2
-		"a_token" : 3244922072-Ll11XORcoWYzXZwNNJmfXAFrogS28SlvPGqEUqO
-		"aa_secret" : rJd90RS8qtgfdoW3FGm00av8a3XXESaKPBNjBvYpYtOMn
+		"a_key" : "DzJfu6OnkQkrJ3QCGEC7EuzDb"
+		"a_secret" : "9322Fdg1L0rWjxS5Fc5PK8QmW6QePOwv4KWynkeNmI8c5IVHT2"
+		"a_token" : "3244922072-Ll11XORcoWYzXZwNNJmfXAFrogS28SlvPGqEUqO"
+		"aa_secret" : "rJd90RS8qtgfdoW3FGm00av8a3XXESaKPBNjBvYpYtOMn"
 	},
 	"config":{
 		"ban_words" : [],
 		"ban_users" : [],
-		"listners" : []
+		"listners" : ["#sumane"]
 	}
 }
